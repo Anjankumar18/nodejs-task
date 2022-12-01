@@ -1,0 +1,11 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "\"this is my first app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "author": "\"Anjan\"",
+  "license": "ISC"
+}
